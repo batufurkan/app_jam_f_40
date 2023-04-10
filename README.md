@@ -6,6 +6,9 @@ Bu uygulama, öğrencilerin  Oyun ve Uygulama Akademisi'nin duyurularını takip
 
 Bu uygulama, Flutter kullanarak geliştirilmiştir.
 Bu yarışmaya katılmamıza ve bu uygulamayı geliştirmemiz için olanak sağlayan akademi yönetimine teşekkür ederiz.
+
+Uygulamanın tanıtım videosuna [buradan](https://youtu.be/i0NjGxFNUjw) ulaşabilirsiniz.
+
 ## Ekibimiz
 - Ecem Zavar
   - [LinkedIn](https://www.linkedin.com/in/ecem-zavar-a10b64209)
